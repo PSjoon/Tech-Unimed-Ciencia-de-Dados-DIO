@@ -1,3 +1,4 @@
 # Geração Tech Unimed-BH - Ciência de Dados
-Dio.me
 
+Dio.me
+Pedrod dos Santos Júnior
