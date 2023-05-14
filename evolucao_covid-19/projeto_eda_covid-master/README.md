@@ -1,4 +1,5 @@
-# projeto_eda_covid
-Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
+# Análise COVI-19 
 
-Análise exploratória dos dados do COVID-19 com Python.
+## Análise de dados COVID-19, atividade correspondente ao curso TechUnimed-BH Cincia de Dados -- DIO
+
+### Pedro dos Santos Júnior
