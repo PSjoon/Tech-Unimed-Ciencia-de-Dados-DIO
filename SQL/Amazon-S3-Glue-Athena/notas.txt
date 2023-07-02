@@ -1,0 +1,14 @@
+base do instrutor: 
+    https://github.com/cassianobrexbit/dio-live-athena
+
+Sobre Amazon S3:
+    Criação de repositório para envio de dados
+
+Sobre Amazon Glue:
+    Extração de dados via crawler
+
+Sobre Amazon Athena:
+    Realiza querys sql dentro do amazon S3
+    Data Lake sem restrição de dados
+
+Sobre Amazon Quicksight:

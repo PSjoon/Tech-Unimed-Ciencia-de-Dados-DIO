@@ -1,0 +1,5 @@
+Linguagem de programação 
+Multiparadigma
+Orientada a objetos
+Dinamica voltada a manipulação 
+Análise e manipulação de dados
