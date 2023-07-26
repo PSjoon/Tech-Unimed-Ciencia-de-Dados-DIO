@@ -1,7 +1,7 @@
 <p align="center">
 <img width="300" height="300" src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png"></img>
 
-<h3 align="center"> Geração Tech Unimed-BH - Ciência de Dados- DIO</h3>
+<h3 align="center"> Geração Tech Unimed-BH - Ciência de Dados - DIO</h3>
 </p>
 
 ***
